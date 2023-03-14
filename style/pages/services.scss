@@ -1,0 +1,12 @@
+main {
+    display: flex;
+
+    article {
+        border: 1px solid red;
+        section {
+            .service-image {
+                width: 400px;
+            }
+        }
+    }
+}
